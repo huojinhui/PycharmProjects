@@ -1,0 +1,21 @@
+第一个网站  居里新房
+
+数据量  1432
+
+字段说明
+
+price:                每平米的价格
+
+total_price,          房子的总价格
+
+type,                 房子的类型
+
+adrees,               房子的位置
+
+recent_opening,       开盘时间
+
+name,                 小区名字
+
+tellphone,            练习电话
+
+tell                  链接网址

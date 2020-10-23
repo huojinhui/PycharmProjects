@@ -1,0 +1,19 @@
+移动端  小说
+
+字段解释
+
+book_name               书名
+
+author_name             作者名字
+
+tags                     标签
+
+categories               分类
+
+intro                    简介
+
+words_num                字数
+
+popularity               人气
+
+share_url                链接网址

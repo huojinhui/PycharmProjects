@@ -1,0 +1,12 @@
+range(start,stop,step): start值不写,默认为0
+
+列表.index(object,start,stop): 包头不包尾
+# 从小到大
+a.sort()
+# 从大到小
+a.sort(reverse=True)
+列表.pop(index): 根据下标删除;如果index不写,默认删除最后一项
+
++ : 连接符  连接多个列表
+
+* : 复制符号

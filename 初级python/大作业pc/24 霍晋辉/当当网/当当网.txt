@@ -1,0 +1,21 @@
+第二个网站         当当网  爬取了世界名著的数
+
+数据量  1802
+
+字段说明
+
+url                    书的链接网址
+  
+title                  书的名字
+
+author                 作者
+
+press                  出版社
+
+publication_time       出版时间
+
+comment                评论
+
+e_book                 电子书价格
+
+book                   纸质版价格

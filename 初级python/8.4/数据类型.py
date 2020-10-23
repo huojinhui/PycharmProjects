@@ -1,0 +1,10 @@
+a=1
+b=2.1
+c='霍晋辉'
+d=True
+e=False
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))

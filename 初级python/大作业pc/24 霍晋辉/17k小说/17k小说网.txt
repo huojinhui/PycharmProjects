@@ -1,0 +1,29 @@
+第三个网站   17k小说
+
+数据量  2433
+
+字段说明
+
+book_name          书名
+
+level              授权级别
+
+book_type          作品类别
+
+click_week         本周点击
+
+click_mouth        本月点击
+
+update_week        本周更新
+
+update_mouth       本月更新
+
+recommend_week     周推荐票
+
+recommend_mouth    月推荐票
+
+rederse            观看人次
+
+word               小说字数
+
+update_day         更新天数
